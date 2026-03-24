@@ -92,6 +92,22 @@ namespace TRPO_KI_15pr_ElectronicShop.Pages
         }
         public bool FilterForms(object obj)
         {
+            double from = 0;
+            double to = double.MaxValue;
+            bool fromPriceV = double.TryParse(filterPriceFrom, out from);
+            bool ToPriceV = double.TryParse(filterPriceTo, out to);
+
+            
+            if (fromPriceV && ToPriceV && from > to)
+            {
+                PriceError.Visibility = Visibility.Visible;
+                return false;
+            }
+            else
+            {
+                PriceError.Visibility = Visibility.Collapsed;
+            }
+
             if (obj is not Product)
             {
                 return false;
