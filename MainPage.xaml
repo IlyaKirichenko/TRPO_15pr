@@ -103,7 +103,7 @@
                                 <TextBlock HorizontalAlignment="Right">
                                  <Run Text="{Binding Price}"/>
                                 </TextBlock>
-                                <TextBlock HorizontalAlignment="Right" Margin="0 20 0 0">
+                                <TextBlock HorizontalAlignment="Right" Margin="0 35 0 0">
                                  <Run Text="Остаток: "/>
                                  <Run Text="{Binding Stock}"/>
                                 </TextBlock>
