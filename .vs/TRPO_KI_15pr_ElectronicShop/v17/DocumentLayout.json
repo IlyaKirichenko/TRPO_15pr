@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\pages\\manageproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:pages\\manageproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\pages\\managecategories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:pages\\managecategories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\pages\\manageproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:pages\\manageproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\pages\\managebrands.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:pages\\managebrands.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\models\\electricalshopkirichenkocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:models\\electricalshopkirichenkocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\converters\\lessthanconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:converters\\lessthanconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\pages\\managetags.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:pages\\managetags.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\pages\\managecategories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:pages\\managecategories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|c:\\system\\ki\\trpo_ki_15pr_electronicshop\\trpo_ki_15pr_electronicshop\\pages\\managetags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50D79F9E-CABD-4757-8F13-D17BBB5188A4}|TRPO_KI_15pr_ElectronicShop.csproj|solutionrelative:pages\\managetags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Service\\DBService.cs",
+              "RelativeDocumentMoniker": "Service\\DBService.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Service\\DBService.cs",
+              "RelativeToolTip": "Service\\DBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:23:58.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageCategories.xaml.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageCategories.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ManageCategories.xaml.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageCategories.xaml.cs",
+              "RelativeToolTip": "Pages\\ManageCategories.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:23:35.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageBrands.xaml.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageBrands.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ManageBrands.xaml.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageBrands.xaml.cs",
+              "RelativeToolTip": "Pages\\ManageBrands.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:23:28.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:23:16.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T08:23:04.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:23:00.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:22:59.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ElectricalShopKirichenkoContext.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Models\\ElectricalShopKirichenkoContext.cs",
+              "RelativeDocumentMoniker": "Models\\ElectricalShopKirichenkoContext.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Models\\ElectricalShopKirichenkoContext.cs",
+              "RelativeToolTip": "Models\\ElectricalShopKirichenkoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:22:57.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:22:56.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LessThanConverters.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Converters\\LessThanConverters.cs",
+              "RelativeDocumentMoniker": "Converters\\LessThanConverters.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Converters\\LessThanConverters.cs",
+              "RelativeToolTip": "Converters\\LessThanConverters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:22:51.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageProducts.xaml.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageProducts.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ManageProducts.xaml.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageProducts.xaml.cs",
+              "RelativeToolTip": "Pages\\ManageProducts.xaml.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAIwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:12:07.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageProducts.xaml",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageProducts.xaml",
+              "RelativeDocumentMoniker": "Pages\\ManageProducts.xaml",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageProducts.xaml",
+              "RelativeToolTip": "Pages\\ManageProducts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T15:12:01.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageTags.xaml.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageTags.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ManageTags.xaml.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageTags.xaml.cs",
+              "RelativeToolTip": "Pages\\ManageTags.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwvzMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T14:53:47.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAcwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T14:24:21.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageTags.xaml",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageTags.xaml",
+              "RelativeDocumentMoniker": "Pages\\ManageTags.xaml",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageTags.xaml",
+              "RelativeToolTip": "Pages\\ManageTags.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T14:00:50.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageCategories.xaml",
+              "DocumentMoniker": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageCategories.xaml",
+              "RelativeDocumentMoniker": "Pages\\ManageCategories.xaml",
+              "ToolTip": "C:\\System\\KI\\TRPO_KI_15pr_ElectronicShop\\TRPO_KI_15pr_ElectronicShop\\Pages\\ManageCategories.xaml",
+              "RelativeToolTip": "Pages\\ManageCategories.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T14:00:25.084Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 709,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
