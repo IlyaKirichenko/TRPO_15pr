@@ -216,5 +216,17 @@ namespace TRPO_KI_15pr_ElectronicShop.Pages
         {
             NavigationService.Navigate(new Pages.ManagerPanel());
         }
+
+        private void PriceTextBox_PreviewTextInput(object sender, TextCompositionEventArgs e)
+        {
+            foreach (char ch in e.Text)
+            {
+                if (!char.IsDigit(ch))
+                {
+                    e.Handled = true;
+                    return;
+                }
+            }
+        }
     }
 }

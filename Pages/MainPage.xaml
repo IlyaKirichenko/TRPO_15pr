@@ -58,12 +58,14 @@
                 <Label FontSize="16">Фильтр по цене</Label>
                 <Label>от</Label>
                 <TextBox x:Name="PriceFromTextBox" Margin="10" Background="#00C4B4" 
-         Text="{Binding filterPriceFrom, UpdateSourceTrigger=PropertyChanged}"
-         TextChanged="TextBox_TextChanged"/>
+                 Text="{Binding filterPriceFrom, UpdateSourceTrigger=PropertyChanged}"
+                 TextChanged="TextBox_TextChanged"
+                 PreviewTextInput="PriceTextBox_PreviewTextInput"/>
                 <Label>до</Label>
                 <TextBox x:Name="PriceToTextBox" Margin="10" Background="#00C4B4" 
-         Text="{Binding filterPriceTo, UpdateSourceTrigger=PropertyChanged}"
-         TextChanged="TextBox_TextChanged"/>
+                 Text="{Binding filterPriceTo, UpdateSourceTrigger=PropertyChanged}"
+                 TextChanged="TextBox_TextChanged"
+                 PreviewTextInput="PriceTextBox_PreviewTextInput"/>
                 <TextBlock x:Name="PriceError" Foreground="Red" FontSize="12" Margin="10 0 10 0" Visibility="Collapsed" Text="Цена 'от' не должна превышать цену 'до' "/>
             </StackPanel>
             <Button Margin="5" Background="#00C4B4" Click="ResetFilters_Click">Сбросить</Button>
