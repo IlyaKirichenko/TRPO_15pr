@@ -43,7 +43,7 @@
             </ComboBox>
             <Label>Фильтры</Label>
             <StackPanel>
-            <Label FontSize="16">Фильтр по брендам</Label>
+                <Label FontSize="16">Фильтр по брендам</Label>
                 <ComboBox x:Name="BrandFilter" Margin="10" Background="#00C4B4" SelectionChanged="BrandFilter_SelectionChanged">
                     <ComboBoxItem Tag="0">Все бренды</ComboBoxItem>
                 </ComboBox>
@@ -79,35 +79,35 @@
                         CornerRadius="8" 
                         Margin="5" 
                         Padding="10">
-                        <Grid>
+                            <Grid>
                                 <Grid.RowDefinitions>
                                     <RowDefinition Height="Auto"/>
                                     <RowDefinition Height="Auto"/>
                                 </Grid.RowDefinitions>
                                 <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="Auto"/>
-                            </Grid.ColumnDefinitions>
-                            <StackPanel Grid.Row="0" Grid.Column="0">
-                                <TextBlock Text="{Binding Name}"/>
-                                <TextBlock Foreground="Orange" Text="{Binding Rating, StringFormat='⭐{0} рейтинг'}"/>
-                                <TextBlock>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Grid.Row="0" Grid.Column="0">
+                                    <TextBlock Text="{Binding Name}"/>
+                                    <TextBlock Foreground="Orange" Text="{Binding Rating, StringFormat='⭐{0} рейтинг'}"/>
+                                    <TextBlock>
                          <Run Text="Категория: "/>
                          <Run Text="{Binding Category.Name}"/>
-                                </TextBlock>
-                                <TextBlock>
-                         <Run Text="{Binding Description}"/>
-                                </TextBlock>
-                            </StackPanel>
-                            <StackPanel Grid.Row="0" Grid.Column="1">
-                                <TextBlock HorizontalAlignment="Right">
+                                    </TextBlock>
+                                    <TextBlock>
+                         <Run Text="{Binding Description, StringFormat='Описание: {0}'}"/>
+                                    </TextBlock>
+                                </StackPanel>
+                                <StackPanel Grid.Row="0" Grid.Column="1">
+                                    <TextBlock HorizontalAlignment="Right">
                                  <Run Text="{Binding Price}"/>
-                                </TextBlock>
-                                <TextBlock HorizontalAlignment="Right" Margin="0 35 0 0">
+                                    </TextBlock>
+                                    <TextBlock HorizontalAlignment="Right" Margin="0 35 0 0">
                                  <Run Text="Остаток: "/>
                                  <Run Text="{Binding Stock}"/>
-                                </TextBlock>
-                            </StackPanel>
+                                    </TextBlock>
+                                </StackPanel>
                                 <StackPanel Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="0,10,0,0">
                                     <ItemsControl ItemsSource="{Binding Tags}">
                                         <ItemsControl.ItemsPanel>
