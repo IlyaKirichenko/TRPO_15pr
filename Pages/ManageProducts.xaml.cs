@@ -88,13 +88,13 @@ namespace TRPO_KI_15pr_ElectronicShop.Pages
                 return;
             }
 
-            if (!decimal.TryParse(txtPrice.Text, out decimal price))
+            if (!decimal.TryParse(txtPrice.Text, out decimal price) || price < 0)
             {
                 MessageBox.Show("Введите корректную цену");
                 return;
             }
 
-            if (!int.TryParse(txtStock.Text, out int stock))
+            if (!int.TryParse(txtStock.Text, out int stock) || stock < 0)
             {
                 MessageBox.Show("Введите корректное количество");
                 return;
