@@ -103,7 +103,7 @@
                                 <TextBlock Grid.Column="5" Text="{Binding Category.Name}"/>
                                 <TextBlock Grid.Column="6" Text="{Binding Brand.Name}"/>
 
-                                <StackPanel Grid.Column="6" Orientation="Horizontal">
+                                <StackPanel Grid.Column="7" Orientation="Horizontal">
                                     <ItemsControl ItemsSource="{Binding Tags}">
                                         <ItemsControl.ItemsPanel>
                                             <ItemsPanelTemplate>
