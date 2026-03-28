@@ -216,11 +216,14 @@ namespace TRPO_KI_15pr_ElectronicShop.Pages
             {
             try
                 {
+                    selectedProduct.Tags.Clear();
+                    db.SaveChanges(); 
+
                     db.Products.Remove(selectedProduct);
                     db.SaveChanges();
+
                     MessageBox.Show("Товар удален");
                     LoadProducts();
-                    selectedProduct = null;
                 } catch
                 {
                     MessageBox.Show("Ошибка при удалении");
