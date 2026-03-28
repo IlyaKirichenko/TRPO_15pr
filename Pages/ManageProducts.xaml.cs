@@ -214,19 +214,18 @@ namespace TRPO_KI_15pr_ElectronicShop.Pages
             var result = MessageBox.Show($"Удалить '{selectedProduct.Name}'?", "Подтверждение", MessageBoxButton.YesNo);
             if (result == MessageBoxResult.Yes)
             {
-
-            }
             try
                 {
                     db.Products.Remove(selectedProduct);
                     db.SaveChanges();
                     MessageBox.Show("Товар удален");
                     LoadProducts();
-                }
-                catch
+                    selectedProduct = null;
+                } catch
                 {
                     MessageBox.Show("Ошибка при удалении");
-                }
+                } 
+            }
         }
         private void lvProducts_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
@@ -251,6 +250,14 @@ namespace TRPO_KI_15pr_ElectronicShop.Pages
         private void Back_Click(object sender, RoutedEventArgs e)
         {
             NavigationService.GoBack();
+        }
+
+        private void txtRating_PreviewTextInput (object sender, TextCompositionEventArgs e)
+        {
+            if(!char.IsDigit(e.Text, 0) && e.Text != ",")
+            {
+                e.Handled = true;
+            }
         }
     }
 }

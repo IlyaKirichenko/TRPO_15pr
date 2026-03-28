@@ -51,7 +51,7 @@
                 <TextBox x:Name="txtStock" Grid.Row="3" Grid.Column="1" Margin="5" />
 
                 <TextBlock Grid.Row="4" Grid.Column="0" Text="Рейтинг:" Margin="5" VerticalAlignment="Center"/>
-                <TextBox x:Name="txtRating" Grid.Row="4" Grid.Column="1" Margin="5"/>
+                <TextBox x:Name="txtRating" Grid.Row="4" Grid.Column="1" Margin="5" PreviewTextInput="txtRating_PreviewTextInput"/>
 
                 <TextBlock Grid.Row="5" Grid.Column="0" Text="Категория:" Margin="5" VerticalAlignment="Center"/>
                 <ComboBox x:Name="cmbCategory" Grid.Row="5" Grid.Column="1" Margin="5" />
@@ -92,14 +92,16 @@
                                     <ColumnDefinition Width="100"/>
                                     <ColumnDefinition Width="100"/>
                                     <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
                                 </Grid.ColumnDefinitions>
 
                                 <TextBlock Grid.Column="0" Text="{Binding Id}"/>
                                 <TextBlock Grid.Column="1" Text="{Binding Name}"/>
                                 <TextBlock Grid.Column="2" Text="{Binding Price}"/>
                                 <TextBlock Grid.Column="3" Text="{Binding Stock}"/>
-                                <TextBlock Grid.Column="4" Text="{Binding Category.Name}"/>
-                                <TextBlock Grid.Column="5" Text="{Binding Brand.Name}"/>
+                                <TextBlock Grid.Column="4" Text="{Binding Rating}"/>
+                                <TextBlock Grid.Column="5" Text="{Binding Category.Name}"/>
+                                <TextBlock Grid.Column="6" Text="{Binding Brand.Name}"/>
 
                                 <StackPanel Grid.Column="6" Orientation="Horizontal">
                                     <ItemsControl ItemsSource="{Binding Tags}">
